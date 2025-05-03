@@ -40,7 +40,7 @@ Start the application using the .NET CLI or Visual Studio 2022:
 dotnet run
 
 
-Alternatively, open the project in Visual Studio and press __F5__ to run.
+Alternatively, open the project in Visual Studio and press Ctrl+F5 to run.
 
 ### 5. Access the Application
 
@@ -66,7 +66,12 @@ Navigate to `https://localhost:5125` in your browser.
 - .NET 9
 - Razor Pages
 - Entity Framework Core
+- PostgreSQL 16.4
 - Bootstrap 5
+
+## Application Demo
+
+https://github.com/user-attachments/assets/af689783-e9a5-4aa4-a683-59caf5a099cc
 
 ## Contributing
 
