@@ -52,8 +52,6 @@ namespace DemoApp.Controllers
                 {
                     ModelState.AddModelError("", "Please enter unique email or correct password");
                     return View(model);
-
-
                 }
                 return View();
             }
